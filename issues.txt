@@ -1,5 +1,7 @@
 #issues faced me while working with git:
 1-The system cannot find the path specified
+2- failed to push some refs to 'https://github.com/mhamed2003/MRT_testing.git'
 
  #how you fixed them:
 1-I checked the file name and it was not resolved so I used another commend line
+2- i first do pull then push 
